@@ -43,7 +43,7 @@ Buku bukuBaru = new Buku(judul, penulis, tahun);
 ```bash
 String Judul;
 String Penulis;
-Int Tahun
+Int Tahun;
 ```
 
 4. **Constructor** adalah method yang pertama kali dijalankan pada saat pembuatan object. Pada kode ini, constructor ada di dalam class `Buku` dan `EBook`.
